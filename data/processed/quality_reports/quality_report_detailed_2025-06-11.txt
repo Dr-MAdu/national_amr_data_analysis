@@ -1,0 +1,39 @@
+================================================================================
+WHO GLASS AMR DATA QUALITY REPORT
+================================================================================
+Report Generated: 2025-06-11 15:38:17
+Data Source: AMR_DATA_FINAL.csv
+Processing Pipeline: WHO GLASS Compliant Data Cleaning
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+• Total Records Processed: 32,688
+• Unique Patients: 30,081
+• Data Reduction Rate: 9.63%
+• WHO GLASS Compliance: PASS
+• Average AST Completeness: 3.3%
+
+ESSENTIAL FIELDS COMPLETENESS
+--------------------------------------------------------------------------------
+• PATIENT_ID: 100.0%
+• ORGANISM_CODE: 100.0%
+• SPEC_DATE: 100.0%
+• COUNTRY: 100.0%
+• INSTITUTION: 100.0%
+• DEPARTMENT: 100.0%
+• AGE: 89.3%
+• SEX: 96.1%
+
+TOP 5 ORGANISMS
+--------------------------------------------------------------------------------
+1. xxx: 24,924 isolates
+2. scn: 1,588 isolates
+3. sau: 1,558 isolates
+4. sep: 958 isolates
+5. sta: 750 isolates
+
+DATA QUALITY RECOMMENDATIONS
+--------------------------------------------------------------------------------
+• Regular quality monitoring
+• Periodic WHO GLASS compliance review
+• Continuous data validation

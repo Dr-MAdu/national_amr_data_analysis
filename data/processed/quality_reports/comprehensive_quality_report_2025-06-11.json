@@ -1,0 +1,123 @@
+{
+    "report_metadata": {
+        "generation_date": "2025-06-11",
+        "generation_time": "15:38:17",
+        "report_version": "1.0",
+        "data_source": "AMR_DATA_FINAL.csv",
+        "processing_pipeline": "WHO GLASS Compliant Data Cleaning",
+        "analyst": "Automated Data Processing System"
+    },
+    "dataset_overview": {
+        "total_records": 32688,
+        "total_patients": 30081,
+        "date_range": {
+            "start": "2020-01-01 00:00:00",
+            "end": "2023-01-01 00:00:00",
+            "span_days": 1096
+        },
+        "countries": [
+            "GHA"
+        ],
+        "institutions": 10
+    },
+    "data_cleaning_summary": {
+        "initial_raw_records": 36173,
+        "final_clean_records": 32688,
+        "total_records_removed": 3485,
+        "total_reduction_rate": "9.63%",
+        "cleaning_steps": {
+            "step_1_column_mapping": {
+                "records_before": 36173,
+                "records_after": 36173,
+                "records_removed": 0,
+                "reduction_rate": "0.00%",
+                "description": "Column mapping and standardization"
+            },
+            "step_2_deduplication": {
+                "records_before": 36173,
+                "records_after": 32688,
+                "records_removed": 3485,
+                "reduction_rate": "9.63%",
+                "description": "First isolate per patient filtering"
+            }
+        },
+        "data_quality_improvements": {
+            "duplicate_records_removed": 3485,
+            "patient_organism_pairs_deduplicated": true,
+            "column_names_standardized": 3,
+            "who_glass_compliance_applied": true
+        }
+    },
+    "who_glass_compliance": {
+        "essential_fields_compliance": "8/8 fields present",
+        "data_completeness_compliance": "PASS",
+        "temporal_coverage_compliance": "36.0 months",
+        "sample_size_compliance": "PASS",
+        "first_isolate_rule_applied": true,
+        "deduplication_performed": true
+    },
+    "quality_metrics": {
+        "essential_field_completeness": {
+            "PATIENT_ID": "100.0%",
+            "ORGANISM_CODE": "100.0%",
+            "SPEC_DATE": "100.0%",
+            "COUNTRY": "100.0%",
+            "INSTITUTION": "100.0%",
+            "DEPARTMENT": "100.0%",
+            "AGE": "89.3%",
+            "SEX": "96.1%"
+        },
+        "ast_columns_available": 34,
+        "average_ast_completeness": "3.3%",
+        "data_consistency_checks": {
+            "patient_id_format_consistent": true,
+            "date_format_standardized": true,
+            "organism_codes_valid": "True"
+        },
+        "missing_data_summary": {
+            "PATIENT_ID": "0.0%",
+            "ORGANISM_CODE": "0.0%",
+            "SPEC_DATE": "0.0%",
+            "COUNTRY": "0.0%",
+            "INSTITUTION": "0.0%",
+            "DEPARTMENT": "0.0%",
+            "AGE": "10.7%",
+            "SEX": "3.9%"
+        }
+    },
+    "organism_analysis": {
+        "total_unique_organisms": 76,
+        "top_10_organisms": {
+            "xxx": 24924,
+            "scn": 1588,
+            "sau": 1558,
+            "sep": 958,
+            "sta": 750,
+            "kpn": 558,
+            "eco": 403,
+            "en-": 353,
+            "pae": 235,
+            "ci-": 200
+        },
+        "department_distribution": {
+            "Out": 16858,
+            "Inp": 15830
+        },
+        "geographic_distribution": {
+            "countries": {
+                "GHA": 32688
+            },
+            "institutions": 10,
+            "institution_coverage": "10 facilities"
+        }
+    },
+    "recommendations": {
+        "data_quality_grade": "REQUIRES_IMPROVEMENT",
+        "who_glass_compliance_status": "COMPLIANT",
+        "next_steps": [
+            "Regular quality monitoring",
+            "Periodic WHO GLASS compliance review",
+            "Continuous data validation"
+        ]
+    }
+}

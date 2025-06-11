@@ -1,8 +1,0 @@
-Metric,Value,Description
-Total_Specimens,36173,Total number of specimens analyzed
-Age_Data_Completeness,89.6%,Percentage of specimens with age information
-Gender_Data_Completeness,96.0%,Percentage of specimens with gender information
-Setting_Data_Completeness,0.0%,Percentage of specimens with department information
-Most_Common_Age_Group,<1 year,Most frequent age group in the dataset
-Most_Common_Gender,M,Most frequent gender in the dataset
-Most_Common_Setting,Unknown,Most frequent healthcare setting
