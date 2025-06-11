@@ -1,0 +1,393 @@
+ATC_CODE,WHONET_CODE,ANTIMICROBIAL,ANTIMICROBIAL_CLASS,WHO_AWARE_CLASSIFICATION
+NA,FCT,5-Fluorocytosine,NA,NA
+NA,ACM,Acetylmidecamycin,NA,NA
+NA,ASP,Acetylspiramycin,NA,NA
+D06AX12,AMK,Amikacin,Aminoglycosides,Access
+D06AX12,AKF,Amikacin/Fosfomycin,Aminoglycosides,Access
+J01CA04,AMX,Amoxicillin,Penicillins,Access
+J01CA04,AMC,Amoxicillin/Clavulanic acid,Penicillins,Access
+J01CA04,AXS,Amoxicillin/Sulbactam,Penicillins,Access
+A01AB04,AMB,Amphotericin B,NA,NA
+J01CA01,AMP,Ampicillin,Penicillins,Access
+J01CA01,SAM,Ampicillin/Sulbactam,Beta-lactam/beta-lactamase-inhibitor,Access
+NA,AMR,Amprolium,NA,NA
+J02AX06,ANI,Anidulafungin,NA,NA
+NA,APL,Apalcillin,NA,NA
+NA,APR,Apramycin,NA,NA
+J01GB12,ARB,Arbekacin,Aminoglycosides,Watch
+J01CA19,APX,Aspoxicillin,Penicillins ,Watch
+NA,AST,Astromicin,NA,NA
+NA,AVB,Avibactam,NA,NA
+NA,AVI,Avilamycin,NA,NA
+NA,AVO,Avoparcin,NA,NA
+NA,AZM,Azithromycin,Macrolides,Watch
+NA,AZL,Azlocillin,Penicillins ,Watch
+NA,ATM,Aztreonam,Monobactams,Reserve
+J01DF01,AZA,Aztreonam/Avibactam,Monobactams,Reserve
+J01DF01,ANC,Aztreonam/Nacubactam,Monobactams,Reserve
+J01CA06,BAM,Bacampicillin,Penicillins ,Access
+NA,BAC,Bacitracin zinc,NA,NA
+J04AK05,BDQ,Bedaquiline,NA,NA
+J01GB13,BEK,Bekanamycin,Aminoglycosides,Watch
+S01AE08,BES,Besifloxacin,NA,NA
+J01DH05,BIA,Biapenem,Carbapenems,Watch
+NA,BCZ,Bicyclomycin,NA,NA
+J01EA02,BDP,Brodimoprim,Trimethoprim-derivatives,Access
+G01AF15,BUT,Butoconazole,NA,NA
+NA,CDZ,Cadazolid,NA,NA
+J04AB30,CAP,Capreomycin,NA,NA
+J01CA03,CRB,Carbenicillin,Penicillins,Watch
+J01DF02,CAR,Carumonam,Monobactams,Reserve
+J02AX04,CAS,Caspofungin,NA,NA
+J01DB10,CAC,Cefacetrile,First-generation-cephalosporins,Access
+J01DC04,CEC,Cefaclor,Second-generation-cephalosporins,Watch
+J01DB05,CFR,Cefadroxil,First-generation-cephalosporins,Access
+J01DB02,RID,Cefaloridine,First-generation-cephalosporins,Access
+J01DC03,MAN,Cefamandole,Second-generation-cephalosporins,Watch
+J01DB07,CTZ,Cefatrizine,First-generation-cephalosporins,Access
+J01DB06,CZD,Cefazedone,First-generation-cephalosporins,Access
+J01DB04,CZO,Cefazolin,First-generation-cephalosporins,Access
+J01DC13,CFB,Cefbuperazone,Second-generation-cephalosporins,Watch
+J01DD17,CCP,Cefcapene,Third-generation-cephalosporins,Watch
+NA,CCX,Cefcapene pivoxil,NA,NA
+J01DD15,CDR,Cefdinir,Third-generation-cephalosporins,Watch
+J01DD16,DIT,Cefditoren,Third-generation-cephalosporins,Watch
+NA,DIX,Cefditoren pivoxil,NA,NA
+J01DE01,FEP,Cefepime,Fourth-generation-cephalosporins,Watch
+D01AC15,FLU,Fluconazole,NA,NA
+J01MB07,FLM,Flumequine,Quinolones,Watch
+NA,FFL,Fosfluconazole,NA,NA
+J01XX01,FOS,Fosfomycin,Phosphonics,Watch
+NA,FMD,Fosmidomycin,NA,NA
+D09AA01,FRM,Framycetin,NA,NA
+G01AX06,FRZ,Furazolidone,NA,NA
+D06AX01,FUS,Fusidic acid,NA,NA
+NA,GAM,Gamithromycin,NA,NA
+J01MA19,GRN,Garenoxacin,Fluoroquinolones,Watch
+J01MA16,GAT,Gatifloxacin,Fluoroquinolones,Watch
+J01MA15,GEM,Gemifloxacin,Fluoroquinolones,Watch
+D06AX07,GEN,Gentamicin,Aminoglycosides,Access
+NA,GEH,Gentamicin-High,NA,NA
+J01XX13,GEP,Gepotidacin,NA,NA
+J01MA11,GRX,Grepafloxacin,Fluoroquinolones,Watch
+D01AA08,GRI,Griseofulvin,NA,NA
+NA,HAB,Habekacin,NA,NA
+J01CA18,HET,Hetacillin,Penicillins ,Access
+NA,HYG,Hygromycin,NA,NA
+J02AX07,IBX,Ibrexafungerp,NA,NA
+J01EA03,ICL,Iclaprim,Trimethoprim-derivatives,Reserve
+J01DH51,IPM,Imipenem,Carbapenems,Watch
+J01DH51,IPE,Imipenem/EDTA,Carbapenems,Watch
+J01DH51,IMR,Imipenem/relebactam,Carbapenems,Watch
+J02AC05,ISV,Isavuconazole,NA,NA
+J01GB11,ISE,Isepamicin,Aminoglycosides,Watch
+D01AC05,ISO,Isoconazole,NA,NA
+J04AC01,INH,Isoniazid,NA,NA
+J02AC02,ITR,Itraconazole,NA,NA
+J01FA07,JOS,Josamycin,Macrolides,Watch
+A07AA08,KAN,Kanamycin,Aminoglycosides,Watch
+A07AA08,KAC,Kanamycin/Cephalexin,Aminoglycosides,Watch
+NA,KAH,Kanamycin-High,NA,NA
+D01AC08,KET,Ketoconazole,NA,NA
+NA,KIT,Kitasamycin,NA,NA
+NA,LAS,Lasalocid,NA,NA
+J01XX12,LMU,Lefamulin,Pleuromutilin,Reserve
+NA,LEN,Lenampicillin,NA,NA
+J01MA12,LVX,Levofloxacin,Fluoroquinolones,Watch
+J01MA24,LND,Levonadifloxacin,Fluoroquinolones,Watch
+J01FF02,LIN,Lincomycin,Lincosamides,Watch
+NA,LSP,Linco-spectin,NA,NA
+J01XX08,LNZ,Linezolid,Oxazolidinones,Reserve
+NA,LFE,Linoprist-flopristin,NA,NA
+J01MA07,LOM,Lomefloxacin,Fluoroquinolones,Watch
+J01DC08,LOR,Loracarbef,Second-generation-cephalosporins,Watch
+NA,MGX,Manogepix,NA,NA
+NA,MAR,Marbofloxacin,NA,NA
+J01CA11,MEC,Mecillinam,Penicillins ,Access
+NA,MEL,Meleumycin,NA,NA
+J01DH02,MEM,Meropenem,Carbapenems,Watch
+J01DH02,MNC,Meropenem/Nacubactam,Carbapenems,Watch
+J01DH02,MEV,Meropenem/Vaborbactam,Carbapenems,Watch
+NA,MES,Mesulfamide,NA,NA
+NA,MET,Methicillin,NA,NA
+NA,MTP,Metioprim,NA,NA
+NA,MXT,Metioxate,NA,NA
+NA,SUP,Sulfachlorpyridazine,NA,NA
+J01EC02,SDI,Sulfadiazine,Sulfonamides,Access
+J01ED01,SUD,Sulfadimethoxine,Sulfonamides,Access
+J01EB03,SDM,Sulfadimidine,Sulfonamides,Access
+J01ED09,SZO,Sulfamazone,Sulfonamides,Access
+NA,SLP,Sulopenem,NA,NA
+NA,SUR,Surotomycin,NA,NA
+J01CA15,TAL,Talampicillin,Penicillins ,Access
+NA,TLP,Talmetoprim,NA,NA
+J01CG02,TAZ,Tazobactam,Beta-lactamase-inhibitors,Watch
+J01DH06,TBP,Tebipenem,Carbapenems,Watch
+J01XX11,TZD,Tedizolid,Oxazolidinones,Reserve
+J01XA02,TEC,Teicoplanin,Glycopeptides,Watch
+NA,TCM,Teicoplanin-Macromethod,NA,NA
+J01XA03,TLV,Telavancin,Glycopeptides,Reserve
+J01FA15,TLT,Telithromycin,Macrolides,Watch
+G01AG02,TRC,Terconazole,NA,NA
+A01AB13,TCY,Tetracycline,Tetracyclines,Access
+J01DE01,CPC,Cefepime/Clavulanic acid,Fourth-generation-cephalosporins,Watch
+J01DE01,FNC,Cefepime/Nacubactam,Fourth-generation-cephalosporins,Watch
+J01DE01,FPT,Cefepime/Tazobactam,Fourth-generation-cephalosporins,Watch
+J01DE01,FPZ,Cefepime/Zidebactam,Fourth-generation-cephalosporins,Watch
+J01DD10,CAT,Cefetamet,Third-generation-cephalosporins,Watch
+NA,CPI,Cefetamet pivoxil,NA,NA
+NA,CCL,Cefetecol,NA,NA
+NA,CZL,Cefetrizole,NA,NA
+J01DI04,FDC,Cefiderocol,Other-cephalosporins,Reserve
+J01DD08,CFM,Cefixime,Third-generation-cephalosporins,Watch
+J01DD05,CMX,Cefmenoxime,Third-generation-cephalosporins,Watch
+J01DC09,CMZ,Cefmetazole,Second-generation-cephalosporins,Watch
+J01DC12,CNX,Cefminox,Second-generation-cephalosporins,Watch
+J01DD09,DIZ,Cefodizime,Third-generation-cephalosporins,Watch
+J01DC06,CID,Cefonicid,Second-generation-cephalosporins,Watch
+J01DD12,CFP,Cefoperazone,Third-generation-cephalosporins,Watch
+J01DD12,CSL,Cefoperazone/Sulbactam,Third-generation-cephalosporins,Watch
+J01DC11,CND,Ceforanide,Second-generation-cephalosporins,Watch
+NA,CSE,Cefoselis,Fourth-generation-cephalosporins,Watch
+J01DD01,CTX,Cefotaxime,Third-generation-cephalosporins,Watch
+J01DD01,CTC,Cefotaxime/Clavulanic acid,Third-generation-cephalosporins,Watch
+J01DD01,CTS,Cefotaxime/Sulbactam,Third-generation-cephalosporins,Watch
+J01DC05,CTT,Cefotetan,Second-generation-cephalosporins,Watch
+J01DC07,CTF,Cefotiam,Second-generation-cephalosporins,Watch
+NA,CHE,Cefotiam hexetil,NA,NA
+NA,FOV,Cefovecin,NA,NA
+J01DC01,FOX,Cefoxitin,Second-generation-cephalosporins,Watch
+J01DE03,ZOP,Cefozopran,Fourth-generation-cephalosporins,Watch
+NA,CFZ,Cefpimizole,NA,NA
+J01DD11,CPM,Cefpiramide,Third-generation-cephalosporins,Watch
+J01DE02,CPO,Cefpirome,Fourth-generation-cephalosporins,Watch
+J01DD13,CPD,Cefpodoxime,Third-generation-cephalosporins,Watch
+NA,CPX,Cefpodoxime proxetil,NA,NA
+J01DD13,CDC,Cefpodoxime/Clavulanic acid,Third-generation-cephalosporins,Watch
+J01DC10,CPR,Cefprozil,Second-generation-cephalosporins,Watch
+NA,CEQ,Cefquinome,NA,NA
+J01DB11,CRD,Cefroxadine,First-generation-cephalosporins,Access
+J01DD03,CFS,Cefsulodin,Third-generation-cephalosporins,Watch
+NA,CSU,Cefsumide,NA,NA
+J01DI02,CPT,Ceftaroline,NA,NA
+J01DI02,CPA,Ceftaroline/Avibactam,NA,NA
+J01DD02,CAZ,Ceftazidime,Third-generation-cephalosporins,Watch
+J01DD02,CZA,Ceftazidime/Avibactam,Third-generation-cephalosporins,Watch
+J01DD02,CCV,Ceftazidime/Clavulanic acid,Third-generation-cephalosporins,Watch
+J01DD18,CEM,Cefteram,Third-generation-cephalosporins,Watch
+NA,CPL,Cefteram pivoxil,NA,NA
+J01DB12,CTL,Ceftezole,First-generation-cephalosporins,Access
+J01DD14,CTB,Ceftibuten,Third-generation-cephalosporins,Watch
+NA,TIO,Ceftiofur,NA,NA
+J01DD07,CZX,Ceftizoxime,Third-generation-cephalosporins,Watch
+NA,CZP,Ceftizoxime alapivoxil,NA,NA
+J01DI01,BPR,Ceftobiprole,Fifth-generation cephalosporins,Reserve
+J01DI54,CZT,Ceftolozane/Tazobactam,Fifth-generation cephalosporins,Reserve
+J01DD04,CRO,Ceftriaxone,Third-generation-cephalosporins,Watch
+J01DC02,CXM,Cefuroxime,Second-generation-cephalosporins,Watch
+A01AB17,MTR,Metronidazole,NA,NA
+J01CA10,MEZ,Mezlocillin,Penicillins ,Watch
+J01CA10,MSU,Mezlocillin/Sulbactam,Penicillins ,Watch
+J02AX05,MIF,Micafungin,NA,NA
+A01AB09,MCZ,Miconazole,NA,NA
+S01AA22,MCR,Micronomicin,Aminoglycosides,Watch
+J01FA03,MID,Midecamycin,Macrolides,Watch
+NA,MIL,Miloxacin,NA,NA
+A01AB23,MNO,Minocycline,NA,NA
+NA,MON,Monensin sodium,NA,NA
+NA,MOX,Moxalactam,NA,NA
+J01MA14,MFX,Moxifloxacin,Fluoroquinolones,Watch
+D06AX09,MUP,Mupirocin,NA,NA
+NA,NAC,Nacubactam,NA,NA
+D10AF05,NAD,Nadifloxacin,NA,NA
+J01CF06,NAF,Nafcillin,Penicillins ,Access
+NA,ZWK,Nafithromycin,NA,NA
+J01MB02,NAL,Nalidixic acid,NA,NA
+NA,NAR,Narasin,NA,NA
+A01AB08,NEO,Neomycin,NA,NA
+J01GB07,NET,Netilmicin,Aminoglycosides,Watch
+NA,NIC,Nicarbazin,NA,NA
+NA,NIF,Nifuroquine,NA,NA
+P01AX11,NTZ,Nitazoxanide,NA,NA
+J01XE01,NIT,Nitrofurantoin,Nitrofuran-derivatives,Access
+NA,NIZ,Nitrofurazone,NA,NA
+J01XX07,NTR,Nitroxoline,NA,NA
+J01MA06,NOR,Norfloxacin,Fluoroquinolones,Watch
+NA,NVA,Norvancomycin,NA,NA
+NA,NOV,Novobiocin,NA,NA
+A07AA02,NYS,Nystatin,NA,NA
+J01MA01,OFX,Ofloxacin,Fluoroquinolones,Watch
+J01FA05,OLE,Oleandomycin,Macrolides,Watch
+J01AA15,OMC,Omadacycline,Tetracyclines,Reserve
+NA,OPT,Optochin,NA,NA
+NA,ORB,Orbifloxacin,NA,NA
+J01XA05,ORI,Oritavancin,Glycopeptides,Reserve
+NA,ORS,Ormetroprim/Sulfamethox.,NA,NA
+G01AF06,ORN,Ornidazole,NA,NA
+J01CF04,OXA,Oxacillin,Penicillins ,Access
+J01MB05,OXO,Oxolinic acid,Quinolones,Watch
+A01AB25,OXY,Oxytetracycline,Tetracyclines,Watch
+D06AX14,OZN,Ozenoxacin,NA,NA
+NA,PAS,P-Aminosalicylic acid,NA,NA
+J01DH55,PAN,Panipenem,Carbapenems,Watch
+A07AA06,PAR,Paromomycin,NA,NA
+J01MA18,PAZ,Pazufloxacin,Fluoroquinolones,Watch
+J01MA03,PEF,Pefloxacin,Fluoroquinolones,Watch
+NA,PEN,Penicillin G,NA,NA
+NA,PNV,Penicillin V,NA,NA
+J01RA01,PNO,Penicillin/Novobiocin,NA,NA
+J01RA01,PSU,Penicillin/Sulbactam,NA,NA
+NA,PIM,Pentisomicin,NA,NA
+J01MB04,PPA,Pipemidic acid,Quinolones,Watch
+J01CA12,PIP,Piperacillin,Penicillins ,Watch
+J01CA12,PIS,Piperacillin/Sulbactam,Penicillins ,Watch
+J01CA12,TZP,Piperacillin/Tazobactam,Penicillins ,Watch
+NA,PTZ,Pentizidone,NA,NA
+D01AE15,TRB,Terbinafine,NA,NA
+J01MA05,TMX,Temafloxacin,Fluoroquinolones,Watch
+J01CA17,TEM,Temocillin,Penicillins,Watch
+NA,TET,Tetroxoprim,NA,NA
+NA,THA,Thiacetazone,NA,NA
+J01BA02,THI,Thiamphenicol,Amphenicols,Access
+NA,TIA,Tiamulin,NA,NA
+J01CA13,TIC,Ticarcillin,Penicillins,Watch
+J01CA13,TCC,Ticarcillin/Clavulanic acid,Penicillins,Watch
+J01AA12,TGC,Tigecycline,Glycylcyclines,Reserve
+P01AA05,TBQ,Tilbroquinol,NA,NA
+NA,TIP,Tildipirosin,NA,NA
+NA,TIL,Tilmicosin,NA,NA
+G01AF21,TIN,Tinidazole,NA,NA
+NA,TDC,Tiodonium chloride,NA,NA
+NA,TXC,Tioxacin,NA,NA
+J01MA13,TVA,Trovafloxacin,Fluoroquinolones,Watch
+NA,TRO,Trospectomycin,NA,NA
+NA,CXA,Cefuroxime axetil,NA,NA
+NA,ZON,Cefuzonam,NA,NA
+NA,LEX,Cephalexin,NA,NA
+NA,CEP,Cephalothin,NA,NA
+NA,HAP,Cephapirin,NA,NA
+NA,CED,Cephradine,NA,NA
+NA,CTO,Cetocycline,NA,NA
+D06AX02,CHL,Chloramphenicol,Amphenicols,Access
+A01AB21,CTE,Chlortetracycline,Tetracyclines,Watch
+NA,CIC,Ciclacillin,NA,NA
+J01MB06,CIN,Cinoxacin,Quinolones,Watch
+J01MA02,CIP,Ciprofloxacin,Fluoroquinolones,Watch
+J01FA09,CLR,Clarithromycin,Macrolides,Watch
+NA,CLA,Clavulanic acid,NA,NA
+NA,CLX,Clinafloxacin,NA,NA
+D10AF01,CLI,Clindamycin,Lincosamides,Access
+J04BA01,CLF,Clofazimine,NA,NA
+A01AB18,CTR,Clotrimazole,NA,NA
+J01CF02,CLO,Cloxacillin,Penicillins,Access
+NA,COL,Colistin,NA,NA
+NA,COP,Colistin/Polysorbate,NA,NA
+J04AB01,CYC,Cycloserine,NA,NA
+J01XA04,DAL,Dalbavancin,Glycopeptides,Reserve
+NA,DAN,Danofloxacin,NA,NA
+J01XX09,DAP,Daptomycin,Lipopeptides,Reserve
+NA,DFX,Delafloxacin,Fluoroquinolones,Watch
+J04AK06,DLM,Delamanid,NA,NA
+D06AA01,DEM,Demeclocycline,Tetracyclines,Watch
+J01GB09,DKB,Dibekacin,Aminoglycosides,Watch
+J01CF01,DIC,Dicloxacillin,Penicillins ,Access
+NA,DIF,Difloxacin,NA,NA
+J01FA13,DIR,Dirithromycin,Macrolides,Watch
+J01DH04,DOR,Doripenem,Carbapenems,Watch
+A01AB22,DOX,Doxycycline,Tetracyclines,Access
+D01AC03,ECO,Econazole,NA,NA
+J01MA04,ENX,Enoxacin,Fluoroquinolones,Watch
+NA,ENR,Enrofloxacin,NA,NA
+NA,ENV,Enviomycin,NA,NA
+NA,EPE,Eperozolid,NA,NA
+NA,EPP,Epiroprim,NA,NA
+J01AA13,ERV,Eravacycline,Tetracyclines,Reserve
+J01DH03,ETP,Ertapenem,Carbapenems,Watch
+D10AF02,ERY,Erythromycin,Macrolides,Watch
+J04AK02,ETH,Ethambutol,NA,NA
+J04AD03,ETI,Ethionamide,NA,NA
+NA,ETO,Ethopabate,NA,NA
+NA,EXE,Exebacase,NA,NA
+J01DI03,FAR,Faropenem,Penems,Reserve
+A07AA12,FDX,Fidaxomicin,Macrolides,Watch
+NA,FIN,Finafloxacin,NA,NA
+NA,FLA,Flavomycin,NA,NA
+J01MA08,FLE,Fleroxacin,Fluoroquinolones,Watch
+J01DC14,FLO,Flomoxef,Second-generation-cephalosporins,Watch
+NA,FLR,Florfenicol,NA,NA
+J01CF05,FLC,Flucloxacillin,Penicillins ,Access
+NA,PEX,Pexiganan,NA,NA
+NA,PHE,Phenethicillin,NA,NA
+NA,PMR,Pimaricin,NA,NA
+NA,PRC,Piridicillin,NA,NA
+NA,PRL,Pirlimycin,NA,NA
+J01MB03,PIR,Piromidic acid,Quinolones,Watch
+J01CA08,PME,Pivmecillinam,Penicillins ,Access
+J01GB14,PLZ,Plazomicin,Aminoglycosides,Reserve
+A07AA05,POL,Polymyxin B,Polymyxins,Reserve
+A07AA05,POP,Polymyxin B/Polysorbate 80,Polymyxins,Reserve
+J02AC04,POS,Posaconazole,NA,NA
+NA,PRA,Pradofloxacin,NA,NA
+NA,PRX,Premafloxacin,NA,NA
+NA,PRM,Primycin,NA,NA
+J01FG01,PRI,Pristinamycin,Streptogramins,Watch
+J01CE03,PRP,Propicillin,Penicillins ,Access
+NA,PKA,Propikacin,NA,NA
+NA,PTH,Prothionamide,NA,NA
+J01MA17,PRU,Prulifloxacin,Fluoroquinolones,Watch
+J04AK01,PZA,Pyrazinamide,NA,NA
+J01FG02,QDA,Quinupristin/Dalfopristin,Streptogramins,Reserve
+NA,RAC,Ractopamine,NA,NA
+NA,RAM,Ramoplanin,NA,NA
+NA,RZM,Razupenem,NA,NA
+D06AX13,RET,Retapamulin,NA,NA
+J02AX08,RZF,Rezafungin,NA,NA
+J01GB10,RST,Ribostamycin,Aminoglycosides,Watch
+NA,RID,Ridinilazole,NA,NA
+J04AB04,RIB,Rifabutin,Rifamycins,Watch
+NA,RIF,Rifampin,NA,NA
+J04AB05,RPT,Rifapentine,NA,NA
+A07AA11,RFX,Rifaximin,Rifamycins,Watch
+NA,RIT,Ritipenem,NA,NA
+NA,RIA,Ritipenem acoxil,NA,NA
+J01FA12,ROK,Rokitamycin,Macrolides,Watch
+J01MB01,ROS,Rosoxacin,Quinolones,Watch
+NA,RXT,Roxithromicin,NA,NA
+NA,SAL,Salinomycin,NA,NA
+NA,SAR,Sarafloxacin,NA,NA
+NA,SRX,Sarmoxicillin,NA,NA
+P01AB07,SEC,Secnidazole,Imidazoles,Access
+J01GB08,SIS,Sisomicin,Aminoglycosides,Watch
+J01MA21,SIT,Sitafloxacin,Fluoroquinolones,Watch
+J01FA16,SOL,Solithromycin,Macrolides,Watch
+J01MA09,SPX,Sparfloxacin,Fluoroquinolones,Watch
+J01XX04,SPT,Spectinomycin,Aminocyclitols,Access
+J01FA02,SPI,Spiramycin,Macrolides,Watch
+A07AA04,STR,Streptomycin,Aminoglycosides,Watch
+NA,STH,Streptomycin-High,NA,NA
+J01CG01,SUL,Sulbactam,Beta-lactamase-inhibitors,Access
+J01CA16,SBC,Sulbenicillin,Penicillins ,Watch
+D01AC09,SUC,Sulconazole,NA,NA
+NA,SUM,Sulfamethazine,NA,NA
+J01EC01,SMX,Sulfamethoxazole,Sulfonamides,Access
+NA,SNA,Sulfasuccinamide,NA,NA
+D06BA02,SUT,Sulfathiazole,Sulfonamides,Access
+NA,SOX,Sulfisoxazole,NA,NA
+J01RA02,SSS,Sulfonamides,NA,NA
+NA,TUL,Tulathromycin,NA,NA
+NA,TIZ,Tizoxanide,NA,NA
+J01GB01,TOB,Tobramycin,Aminoglycosides,Watch
+J01MA22,TFX,Tosufloxacin,Fluoroquinolones,Watch
+J01EA01,TMP,Trimethoprim,Trimethoprim-derivatives,Access
+J01EA01,SXT,Trimethoprim/Sulfamethox.,Trimethoprim-derivatives,Access
+J01FA08,TRL,Troleandomycin,Macrolides,Watch
+NA,TYL,Tylosin,NA,NA
+NA,TVN,Tylvalosin,NA,NA
+NA,PRU,Ulifloxacin,NA,NA
+NA,VAN,Vancomycin,NA,NA
+NA,VAM,Vancomycin-Macromethod,NA,NA
+NA,VIO,Viomycin,NA,NA
+NA,VIR,Virginiamycine,NA,NA
+J02AC03,VOR,Voriconazole,NA,NA
+NA,ZID,Zidebactam,NA,NA
+NA,ZFD,Zoliflodacin,NA,NA
