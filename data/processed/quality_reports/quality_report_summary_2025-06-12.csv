@@ -1,0 +1,16 @@
+Metric,Value,Category
+Total Records,32688,Dataset Overview
+Total Patients,30081,Dataset Overview
+Date Range (Days),1096,Dataset Overview
+Records Removed,3485,Data Cleaning
+Reduction Rate (%),9.63,Data Cleaning
+WHO GLASS Compliance,PASS,Quality
+AST Completeness (%),3.3,Quality
+PATIENT_ID Completeness,100.0%,Essential Fields
+ORGANISM_CODE Completeness,100.0%,Essential Fields
+SPEC_DATE Completeness,100.0%,Essential Fields
+COUNTRY Completeness,100.0%,Essential Fields
+INSTITUTION Completeness,100.0%,Essential Fields
+DEPARTMENT Completeness,100.0%,Essential Fields
+AGE Completeness,89.3%,Essential Fields
+SEX Completeness,96.1%,Essential Fields
