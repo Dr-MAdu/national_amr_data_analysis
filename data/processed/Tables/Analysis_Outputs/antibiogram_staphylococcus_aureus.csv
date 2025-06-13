@@ -1,0 +1,24 @@
+Drug_Code,Drug_Name,AWaRe_Category,Total_Tested,Susceptible_Count,Intermediate_Count,Resistant_Count,Susceptible_Percent,Resistant_Percent
+AMC,Amoxicillin/Clavulanic acid,Access,38,26,0,12,68.42,31.58
+AMK,Amikacin,Access,139,118,0,21,84.89,15.11
+AMP,Ampicillin,Access,79,11,0,68,13.92,86.08
+AZM,Azithromycin,Watch,223,100,0,123,44.84,55.16
+CHL,Chloramphenicol,Access,58,25,0,33,43.1,56.9
+CIP,Ciprofloxacin,Watch,1162,727,0,435,62.56,37.44
+CLI,Clindamycin,Access,253,134,0,119,52.96,47.04
+CLO,Cloxacillin,Access,204,54,0,150,26.47,73.53
+CTX,Cefotaxime,Watch,34,7,0,27,20.59,79.41
+CXM,Cefuroxime,Watch,49,15,0,34,30.61,69.39
+ERY,Erythromycin,Watch,816,518,0,298,63.48,36.52
+FOX,Cefoxitin,Watch,604,239,0,365,39.57,60.43
+GEN,Gentamicin,Access,627,414,0,213,66.03,33.97
+LEX,Cephalexin,,135,39,0,96,28.89,71.11
+LIN,Lincomycin,Watch,139,65,0,74,46.76,53.24
+LNZ,Linezolid,Reserve,146,127,0,19,86.99,13.01
+LVX,Levofloxacin,Watch,189,149,0,40,78.84,21.16
+OXA,Oxacillin,Access,68,56,0,12,82.35,17.65
+PEN,Penicillin G,,211,8,0,203,3.79,96.21
+PNV,Penicillin V,,350,11,0,339,3.14,96.86
+RIF,Rifampin,,138,63,0,75,45.65,54.35
+SXT,Trimethoprim/Sulfamethox.,Access,448,172,0,276,38.39,61.61
+TCY,Tetracycline,Access,223,103,0,120,46.19,53.81

@@ -1,0 +1,20 @@
+{
+  "Analysis_Date": "2025-06-13 12:40:40",
+  "Total_Records_Original": 32688,
+  "Total_Records_Filtered": 7764,
+  "Records_Removed_No_Growth": 24924,
+  "Records_Removed_Duplicates": 0,
+  "Unique_Patients": 7369,
+  "Unique_Organisms": 75,
+  "Date_Range_Start": "2020-01-01",
+  "Date_Range_End": "2023-01-01",
+  "Years_Covered": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "WHO_Priority_Organisms_Found": 27,
+  "GLASS_Methodology_Applied": true,
+  "CLSI_M39_Compliance": true
+}

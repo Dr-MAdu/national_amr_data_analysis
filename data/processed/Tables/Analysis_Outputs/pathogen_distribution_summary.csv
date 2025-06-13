@@ -1,0 +1,76 @@
+ORGANISM_NAME,ORGANISM_TYPE,Total_Isolates,First_Year,Last_Year,Percentage
+"Staphylococcus, coagulase negative",Gram-positive,1588,2020,2023,20.45
+Staphylococcus aureus,Gram-positive,1558,2020,2023,20.07
+Staphylococcus epidermidis,Gram-positive,958,2020,2023,12.34
+Staphylococcus sp.,Gram-positive,750,2020,2023,9.66
+Klebsiella pneumoniae,Gram-negative,558,2020,2023,7.19
+Escherichia coli,Gram-negative,403,2020,2023,5.19
+Enterobacter sp.,Gram-negative,353,2020,2023,4.55
+Pseudomonas aeruginosa,Gram-negative,235,2020,2023,3.03
+Citrobacter sp.,Gram-negative,200,2020,2023,2.58
+Acinetobacter sp.,Gram-negative,192,2020,2023,2.47
+Streptococcus sp.,Gram-positive,147,2020,2023,1.89
+Pseudomonas sp.,Gram-negative,116,2020,2023,1.49
+Enterococcus sp.,Gram-positive,114,2020,2023,1.47
+Gram negative enteric organism,Gram-negative,62,2021,2021,0.8
+Salmonella sp.,Gram-negative,50,2021,2023,0.64
+"Streptococcus viridans, alpha-hem.",Gram-positive,42,2021,2023,0.54
+Staphylococcus haemolyticus,Gram-positive,39,2023,2023,0.5
+Klebsiella sp.,Gram-negative,32,2023,2023,0.41
+Serratia marcescens,Gram-negative,26,2020,2023,0.33
+Streptococcus pneumoniae,Gram-positive,22,2021,2023,0.28
+Acinetobacter baumannii,Gram-negative,21,2020,2023,0.27
+Streptococcus pyogenes,Gram-positive,20,2021,2023,0.26
+Staphylococcus hominis ss. hominis,Gram-positive,19,2023,2023,0.24
+Proteus mirabilis,Gram-negative,17,2020,2023,0.22
+Micrococcus sp.,Gram-positive,16,2021,2021,0.21
+Candida tropicalis,Fungus,16,2023,2023,0.21
+Listeria sp.,Gram-positive,15,2022,2022,0.19
+Citrobacter diversus,Gram-negative,13,2022,2023,0.17
+Citrobacter freundii,Gram-negative,12,2020,2023,0.15
+Proteus morganii,Gram-negative,12,2020,2023,0.15
+Proteus sp.,Gram-negative,12,2021,2022,0.15
+Enterobacter cloacae,Gram-negative,11,2023,2023,0.14
+Salmonella Typhi,Gram-negative,10,2021,2023,0.13
+Staphylococcus saprophyticus ss. saprophyticus,Gram-positive,8,2020,2023,0.1
+Klebsiella oxytoca,Gram-negative,8,2023,2023,0.1
+Providencia stuartii,Gram-negative,7,2023,2023,0.09
+Gram negative rods,Gram-negative,7,2021,2023,0.09
+Proteus vulgaris,Gram-negative,7,2020,2023,0.09
+Corynebacterium sp.,Gram-positive,7,2021,2023,0.09
+Other,Unknown,6,2021,2021,0.08
+Providencia sp.,Gram-negative,5,2020,2021,0.06
+Staphylococcus capitis ss. capitis,Gram-positive,5,2023,2023,0.06
+Shigella sp.,Gram-negative,4,2021,2023,0.05
+Streptococcus faecium,Gram-positive,4,2023,2023,0.05
+Providencia rettgeri,Gram-negative,4,2023,2023,0.05
+Neisseria sp.,Gram-negative,4,2021,2021,0.05
+Citrobacter amalonaticus,Gram-negative,4,2023,2023,0.05
+Micrococcus luteus,Gram-positive,4,2023,2023,0.05
+Staphylococcus warneri,Gram-positive,3,2023,2023,0.04
+CDC Vb-1,Gram-negative,3,2023,2023,0.04
+Staphylococcus sciuri ss. sciuri,Gram-positive,2,2023,2023,0.03
+Acinetobacter nosocomialis,Gram-negative,2,2023,2023,0.03
+Streptococcus oralis,Gram-positive,2,2023,2023,0.03
+Streptococcus faecalis,Gram-positive,2,2023,2023,0.03
+Streptococcus agalactiae,Gram-positive,2,2023,2023,0.03
+Corynebacterium sp. (diphtheroids),Gram-positive,2,2023,2023,0.03
+Salmonella Paratyphi,Gram-negative,2,2022,2022,0.03
+Xanthomonas maltophilia,Gram-negative,2,2021,2023,0.03
+Klebsiella aerogenes,Gram-negative,2,2020,2023,0.03
+Pseudomonas mendocina,Gram-negative,2,2023,2023,0.03
+Candida sp.,Fungus,1,2023,2023,0.01
+Alcaligenes sp.,Gram-negative,1,2021,2021,0.01
+Streptococcus salivarius,Gram-positive,1,2023,2023,0.01
+Shigella boydii,Gram-negative,1,2023,2023,0.01
+Candida parapsilosis,Fungus,1,2023,2023,0.01
+Acinetobacter junii,Gram-negative,1,2023,2023,0.01
+Enterobacter hormaechei,Gram-negative,1,2023,2023,0.01
+Enterococcus sulfureus,Gram-positive,1,2023,2023,0.01
+Staphylococcus caprae,Gram-positive,1,2023,2023,0.01
+Streptobacillus sp.,Gram-negative,1,2023,2023,0.01
+Stenotrophomonas sp.,Gram-negative,1,2022,2022,0.01
+Staphylococcus cohnii ss. cohnii,Gram-positive,1,2023,2023,0.01
+Staphylococcus xylosus,Gram-positive,1,2023,2023,0.01
+Serratia liquefaciens,Gram-negative,1,2021,2021,0.01
+Neisseria meningitidis,Gram-negative,1,2023,2023,0.01

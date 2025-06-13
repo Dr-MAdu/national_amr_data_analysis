@@ -1,0 +1,40 @@
+
+GHANA ONE HEALTH AMR SURVEILLANCE: ANALYSIS SUMMARY
+============================================================
+
+📊 DATA OVERVIEW:
+   • Total records analyzed: 7,764
+   • Unique patients: 7,369
+   • Unique organisms: 75
+   • Years covered: 2020-01-01 to 2023-01-01
+   • WHO priority organisms found: 27
+
+🦠 TOP PATHOGENS:
+   1. Staphylococcus, coagulase negative: 1,588 isolates (20.4%)
+   2. Staphylococcus aureus: 1,558 isolates (20.1%)
+   3. Staphylococcus epidermidis: 958 isolates (12.3%)
+   4. Staphylococcus sp.: 750 isolates (9.7%)
+   5. Klebsiella pneumoniae: 558 isolates (7.2%)
+
+🎯 WHO PRIORITY PATHOGENS:
+   • Critical Priority: 20 organisms
+   • High Priority: 4 organisms
+   • Medium Priority: 3 organisms
+
+💊 RESISTANCE PATTERNS:
+   • High resistance rates (≥50%): 11 combinations
+   • Organisms analyzed: 5
+   • Antimicrobials tested: 6
+
+✅ QUALITY STANDARDS:
+   • WHO GLASS methodology: Applied ✓
+   • CLSI M39 compliance: Achieved ✓
+   • De-duplication performed: Yes ✓
+   • International standards: Followed ✓
+
+📈 TEMPORAL COVERAGE:
+   • Years analyzed: 4
+   • Annual data points: 2020, 2021, 2022, 2023
+
+Generated on: 2025-06-13 12:49:54
+Analysis compliant with WHO GLASS and CLSI M39 standards

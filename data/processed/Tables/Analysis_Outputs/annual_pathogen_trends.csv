@@ -1,0 +1,76 @@
+ORGANISM_NAME,2020,2021,2022,2023
+Acinetobacter baumannii,2.0,0.0,0.0,19.0
+Acinetobacter junii,0.0,0.0,0.0,1.0
+Acinetobacter nosocomialis,0.0,0.0,0.0,2.0
+Acinetobacter sp.,1.0,104.0,58.0,29.0
+Alcaligenes sp.,0.0,1.0,0.0,0.0
+CDC Vb-1,0.0,0.0,0.0,3.0
+Candida parapsilosis,0.0,0.0,0.0,1.0
+Candida sp.,0.0,0.0,0.0,1.0
+Candida tropicalis,0.0,0.0,0.0,16.0
+Citrobacter amalonaticus,0.0,0.0,0.0,4.0
+Citrobacter diversus,0.0,0.0,4.0,9.0
+Citrobacter freundii,4.0,0.0,2.0,6.0
+Citrobacter sp.,27.0,36.0,87.0,50.0
+Corynebacterium sp.,0.0,1.0,0.0,6.0
+Corynebacterium sp. (diphtheroids),0.0,0.0,0.0,2.0
+Enterobacter cloacae,0.0,0.0,0.0,11.0
+Enterobacter hormaechei,0.0,0.0,0.0,1.0
+Enterobacter sp.,10.0,90.0,215.0,38.0
+Enterococcus sp.,1.0,46.0,53.0,14.0
+Enterococcus sulfureus,0.0,0.0,0.0,1.0
+Escherichia coli,15.0,150.0,128.0,110.0
+Gram negative enteric organism,0.0,62.0,0.0,0.0
+Gram negative rods,0.0,6.0,0.0,1.0
+Klebsiella aerogenes,1.0,0.0,0.0,1.0
+Klebsiella oxytoca,0.0,0.0,0.0,8.0
+Klebsiella pneumoniae,17.0,160.0,274.0,107.0
+Klebsiella sp.,0.0,0.0,0.0,32.0
+Listeria sp.,0.0,0.0,15.0,0.0
+Micrococcus luteus,0.0,0.0,0.0,4.0
+Micrococcus sp.,0.0,16.0,0.0,0.0
+Neisseria meningitidis,0.0,0.0,0.0,1.0
+Neisseria sp.,0.0,4.0,0.0,0.0
+Other,0.0,6.0,0.0,0.0
+Proteus mirabilis,5.0,6.0,1.0,5.0
+Proteus morganii,3.0,2.0,4.0,3.0
+Proteus sp.,0.0,7.0,5.0,0.0
+Proteus vulgaris,1.0,1.0,2.0,3.0
+Providencia rettgeri,0.0,0.0,0.0,4.0
+Providencia sp.,1.0,4.0,0.0,0.0
+Providencia stuartii,0.0,0.0,0.0,7.0
+Pseudomonas aeruginosa,6.0,102.0,80.0,47.0
+Pseudomonas mendocina,0.0,0.0,0.0,2.0
+Pseudomonas sp.,3.0,19.0,48.0,46.0
+Salmonella Paratyphi,0.0,0.0,2.0,0.0
+Salmonella Typhi,0.0,5.0,1.0,4.0
+Salmonella sp.,0.0,15.0,24.0,11.0
+Serratia liquefaciens,0.0,1.0,0.0,0.0
+Serratia marcescens,2.0,4.0,7.0,13.0
+Shigella boydii,0.0,0.0,0.0,1.0
+Shigella sp.,0.0,1.0,0.0,3.0
+Staphylococcus aureus,21.0,476.0,723.0,338.0
+Staphylococcus capitis ss. capitis,0.0,0.0,0.0,5.0
+Staphylococcus caprae,0.0,0.0,0.0,1.0
+Staphylococcus cohnii ss. cohnii,0.0,0.0,0.0,1.0
+Staphylococcus epidermidis,12.0,786.0,0.0,160.0
+Staphylococcus haemolyticus,0.0,0.0,0.0,39.0
+Staphylococcus hominis ss. hominis,0.0,0.0,0.0,19.0
+Staphylococcus saprophyticus ss. saprophyticus,1.0,1.0,0.0,6.0
+Staphylococcus sciuri ss. sciuri,0.0,0.0,0.0,2.0
+Staphylococcus sp.,10.0,82.0,490.0,168.0
+Staphylococcus warneri,0.0,0.0,0.0,3.0
+Staphylococcus xylosus,0.0,0.0,0.0,1.0
+"Staphylococcus, coagulase negative",74.0,393.0,849.0,272.0
+Stenotrophomonas sp.,0.0,0.0,1.0,0.0
+Streptobacillus sp.,0.0,0.0,0.0,1.0
+Streptococcus agalactiae,0.0,0.0,0.0,2.0
+Streptococcus faecalis,0.0,0.0,0.0,2.0
+Streptococcus faecium,0.0,0.0,0.0,4.0
+Streptococcus oralis,0.0,0.0,0.0,2.0
+Streptococcus pneumoniae,0.0,6.0,5.0,11.0
+Streptococcus pyogenes,0.0,8.0,7.0,5.0
+Streptococcus salivarius,0.0,0.0,0.0,1.0
+Streptococcus sp.,1.0,32.0,64.0,50.0
+"Streptococcus viridans, alpha-hem.",0.0,24.0,0.0,18.0
+Xanthomonas maltophilia,0.0,1.0,0.0,1.0

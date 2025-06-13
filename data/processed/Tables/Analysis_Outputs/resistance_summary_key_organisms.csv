@@ -1,0 +1,24 @@
+Organism,Drug_Code,Drug_Name,Total_Tested,Resistant_Count,Resistance_Rate_Percent
+Escherichia coli,AMC,Amoxicillin/Clavulanic acid,112,93,83.04
+Escherichia coli,CIP,Ciprofloxacin,299,186,62.21
+Escherichia coli,GEN,Gentamicin,265,103,38.87
+Escherichia coli,CRO,Ceftriaxone,181,147,81.22
+Escherichia coli,MEM,Meropenem,109,23,21.1
+Staphylococcus aureus,AMC,Amoxicillin/Clavulanic acid,38,12,31.58
+Staphylococcus aureus,CIP,Ciprofloxacin,1162,435,37.44
+Staphylococcus aureus,GEN,Gentamicin,627,213,33.97
+Staphylococcus aureus,CRO,Ceftriaxone,25,20,80.0
+Staphylococcus aureus,MEM,Meropenem,16,12,75.0
+Staphylococcus aureus,OXA,Oxacillin,68,12,17.65
+Klebsiella pneumoniae,AMC,Amoxicillin/Clavulanic acid,122,111,90.98
+Klebsiella pneumoniae,CIP,Ciprofloxacin,417,238,57.07
+Klebsiella pneumoniae,GEN,Gentamicin,323,198,61.3
+Klebsiella pneumoniae,CRO,Ceftriaxone,249,218,87.55
+Klebsiella pneumoniae,MEM,Meropenem,148,52,35.14
+Acinetobacter baumannii,CIP,Ciprofloxacin,16,6,37.5
+Acinetobacter baumannii,GEN,Gentamicin,12,4,33.33
+Acinetobacter baumannii,CRO,Ceftriaxone,9,8,88.89
+Pseudomonas aeruginosa,CIP,Ciprofloxacin,184,58,31.52
+Pseudomonas aeruginosa,GEN,Gentamicin,141,66,46.81
+Pseudomonas aeruginosa,CRO,Ceftriaxone,5,5,100.0
+Pseudomonas aeruginosa,MEM,Meropenem,88,34,38.64

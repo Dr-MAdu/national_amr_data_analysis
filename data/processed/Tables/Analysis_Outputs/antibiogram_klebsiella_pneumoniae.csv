@@ -1,0 +1,18 @@
+Drug_Code,Drug_Name,AWaRe_Category,Total_Tested,Susceptible_Count,Intermediate_Count,Resistant_Count,Susceptible_Percent,Resistant_Percent
+AMC,Amoxicillin/Clavulanic acid,Access,122,11,0,111,9.02,90.98
+AMK,Amikacin,Access,382,317,0,65,82.98,17.02
+AMP,Ampicillin,Access,231,2,0,229,0.87,99.13
+CAZ,Ceftazidime,Watch,121,56,0,65,46.28,53.72
+CHL,Chloramphenicol,Access,178,74,0,104,41.57,58.43
+CIP,Ciprofloxacin,Watch,417,179,0,238,42.93,57.07
+CRO,Ceftriaxone,Watch,249,31,0,218,12.45,87.55
+CTX,Cefotaxime,Watch,233,32,0,201,13.73,86.27
+CXM,Cefuroxime,Watch,295,17,0,278,5.76,94.24
+ERY,Erythromycin,Watch,91,54,0,37,59.34,40.66
+FOX,Cefoxitin,Watch,31,7,0,24,22.58,77.42
+GEN,Gentamicin,Access,323,125,0,198,38.7,61.3
+MEM,Meropenem,Watch,148,96,0,52,64.86,35.14
+PNV,Penicillin V,,121,0,0,121,0.0,100.0
+SXT,Trimethoprim/Sulfamethox.,Access,200,20,0,180,10.0,90.0
+TCY,Tetracycline,Access,77,15,0,62,19.48,80.52
+TZP,Piperacillin/Tazobactam,Watch,43,16,0,27,37.21,62.79
